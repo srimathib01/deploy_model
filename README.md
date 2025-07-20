@@ -2,7 +2,7 @@
 
 This project is a simple **web application built with Streamlit** that allows users to input flower measurements and predict the **species of the Iris flower** using a trained **Decision Tree classifier**.
 
----
+
 
 ## 🚀 Features
 
@@ -11,7 +11,7 @@ This project is a simple **web application built with Streamlit** that allows us
 - ✅ Displays predictions and visualizes user input on a scatter plot
 - ✅ Built using Streamlit – fast, easy, and fun for ML deployment
 
----
+
 
 ## 📦 Dependencies
 
